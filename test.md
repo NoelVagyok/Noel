@@ -2,6 +2,7 @@
 ## hétfő
 1. kenyér
 - tej
+- 3dkg felvágott
 ```
 cout<<"alma"<< endl;
 ```
